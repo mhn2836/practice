@@ -1,10 +1,1 @@
-想法：
-
-title：XX环境下的车辆行人检测。
-
-baseline:基于预训练权重的几种经典网络
-
-改进：yolo主体，backbone：efficientNet，预处理：
-
-流程：
 
