@@ -1,0 +1,37 @@
+﻿生成启动时间为 2020/10/11 17:32:49。
+     1>项目“C:\Users\MHN\documents\visual studio 2010\Projects\C++ practice\C++ practice\C++ practice.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\C++ practice.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         e:\VS2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "练习5.cpp"
+         练习5.cpp
+     1>c:\users\mhn\documents\visual studio 2010\projects\c++ practice\c++ practice\练习5.cpp(11): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2010\vc\include\stdio.h(249) : 参见“freopen”的声明
+     1>c:\users\mhn\documents\visual studio 2010\projects\c++ practice\c++ practice\练习5.cpp(12): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2010\vc\include\stdio.h(249) : 参见“freopen”的声明
+     1>c:\users\mhn\documents\visual studio 2010\projects\c++ practice\c++ practice\练习5.cpp(29): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2010\vc\include\stdio.h(249) : 参见“freopen”的声明
+     1>c:\users\mhn\documents\visual studio 2010\projects\c++ practice\c++ practice\练习5.cpp(30): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2010\vc\include\stdio.h(249) : 参见“freopen”的声明
+     1>c:\users\mhn\documents\visual studio 2010\projects\c++ practice\c++ practice\练习5.cpp(38): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\mhn\documents\visual studio 2010\projects\c++ practice\c++ practice\练习5.cpp(103): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\mhn\documents\visual studio 2010\projects\c++ practice\c++ practice\练习5.cpp(221): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\mhn\documents\visual studio 2010\projects\c++ practice\c++ practice\练习5.cpp(228): warning C4715: “func8”: 不是所有的控件路径都返回值
+       Link:
+         e:\VS2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\MHN\documents\visual studio 2010\Projects\C++ practice\Debug\C++ practice.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\C++ practice.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\MHN\documents\visual studio 2010\Projects\C++ practice\Debug\C++ practice.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\MHN\documents\visual studio 2010\Projects\C++ practice\Debug\C++ practice.lib" /MACHINE:X86 "Debug\练习.obj"
+         "Debug\练习2.obj"
+         "Debug\练习3.obj"
+         "Debug\练习4.obj"
+         "Debug\练习5.obj"
+         LINK : 没有找到 C:\Users\MHN\documents\visual studio 2010\Projects\C++ practice\Debug\C++ practice.exe 或上一个增量链接没有生成它；正在执行完全链接
+         C++ practice.vcxproj -> C:\Users\MHN\documents\visual studio 2010\Projects\C++ practice\Debug\C++ practice.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\MHN\documents\visual studio 2010\Projects\C++ practice\Debug\C++ practice.exe;#1" /manifest "Debug\C++ practice.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         正在删除文件“Debug\C++ practice.unsuccessfulbuild”。
+         正在对“Debug\C++ practice.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\MHN\documents\visual studio 2010\Projects\C++ practice\C++ practice\C++ practice.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.55

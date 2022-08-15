@@ -1,0 +1,26 @@
+﻿生成启动时间为 2020/9/7 16:26:36。
+     1>项目“C:\Users\MHN\documents\visual studio 2010\Projects\C++练习\C++练习\C++练习.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\C++练习.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         e:\VS2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "系统.cpp"
+         系统.cpp
+     1>c:\users\mhn\documents\visual studio 2010\projects\c++练习\c++练习\系统.cpp(47): warning C4309: “初始化”: 截断常量值
+       Link:
+         e:\VS2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\MHN\documents\visual studio 2010\Projects\C++练习\Debug\C++练习.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\C++练习.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\MHN\documents\visual studio 2010\Projects\C++练习\Debug\C++练习.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\MHN\documents\visual studio 2010\Projects\C++练习\Debug\C++练习.lib" /MACHINE:X86 Debug\guest.obj
+         Debug\worker_manage.obj
+         "Debug\系统.obj"
+         "Debug\练习.obj"
+         "Debug\练习2.obj"
+         LINK : 没有找到 C:\Users\MHN\documents\visual studio 2010\Projects\C++练习\Debug\C++练习.exe 或上一个增量链接没有生成它；正在执行完全链接
+         C++练习.vcxproj -> C:\Users\MHN\documents\visual studio 2010\Projects\C++练习\Debug\C++练习.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\MHN\documents\visual studio 2010\Projects\C++练习\Debug\C++练习.exe;#1" /manifest "Debug\C++练习.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         正在删除文件“Debug\C++练习.unsuccessfulbuild”。
+         正在对“Debug\C++练习.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\MHN\documents\visual studio 2010\Projects\C++练习\C++练习\C++练习.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.34
